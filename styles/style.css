@@ -236,13 +236,13 @@ span {
     min-height: 446px;
   }
   .overlay::after {
-    //width: 50%;
+    width: 50%;
     height: 100%;
     top: 0px;
     max-height: unset;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-    max-width: 540px;
+    /*max-width: 540px;*/
   }
   .dataFlex {
     display: -webkit-box;
